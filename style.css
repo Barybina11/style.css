@@ -1,0 +1,21 @@
+/* Стили для блоков */
+.main-block {
+    background-color: red;
+    padding: 20px;
+}
+
+.secondary-block {
+    background-color: blue;
+    padding: 20px;
+}
+
+.simple-block {
+    background-color: green;
+    padding: 20px;
+}
+
+/* Стили для заголовков */
+h1, h2, h3 {
+    color: white;
+    font-size: 64px;
+}
